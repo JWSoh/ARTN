@@ -1,9 +1,12 @@
-* More contents will be updated after the review process.
-
 # ARTN
 
-# Deep Temporal Networks for Video Compression Artifact Reduction
+# [Reduction of Video Compression Artifacts Based on Deep Temporal Networks](https://ieeexplore.ieee.org/abstract/document/8502045)
 <br><br>
+
+## Requisites
+- [Caffe](http://caffe.berkeleyvision.org/)
+- Cuda & cuDNN
+- Matlab
 
 ## Abstract
 
@@ -87,12 +90,20 @@ Results for AVC.
 Results for MPEG-2. 
 <br><br>
 
-- Video results for MPEG-2 QP 30 <a href="http://ispl.synology.me:8480/sharing/Tsw79hzxL"> Kimono_Comparison.yuv </a>
+- Video results for MPEG-2 QP 30 <a href="https://drive.google.com/open?id=1FzcQzhtDp8vkyihoK9f_ZyClNJeuhEiC"> Kimono_Comparison.yuv </a>
 
 <img src="figure/Example.png" width="700">
 * Video Snapshot
 
 ## Citation
 ```
-Will be updated.
+@article{soh2018reduction,
+  title={Reduction of Video Compression Artifacts Based on Deep Temporal Networks},
+  author={Soh, Jae Woong and Park, Jaewoo and Kim, Yoonsik and Ahn, Byeongyong and Lee, Hyun-Seung and Moon, Young-Su and Cho, Nam Ik},
+  journal={IEEE Access},
+  volume={6},
+  pages={63094--63106},
+  year={2018},
+  publisher={IEEE}
+}
 ```
