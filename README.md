@@ -95,6 +95,10 @@ Results for MPEG-2.
 <img src="figure/Example.png" width="700">
 * Video Snapshot
 
+### Test dataset
+- 5 Sequences: BasketballDrive, BQTerrace, GTAV, Kimono, Pedestrian
+- Y-channel PNG files are available. [Download](https://drive.google.com/open?id=1hEbrkZ9JtXI-kFFDoWClFkrzjkPg9GIU)
+
 ## Citation
 ```
 @article{soh2018reduction,
